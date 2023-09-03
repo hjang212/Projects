@@ -13,6 +13,6 @@ function printThis(param: any) {
 printThis('tapas')
 
 /* function expression */
-const printMe = function () {
+const printMeAgain = function () {
   console.log('print');
 }
